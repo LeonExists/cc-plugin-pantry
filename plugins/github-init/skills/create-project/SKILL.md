@@ -83,7 +83,7 @@ Help the user choose based on their project type:
 Based on the `readme_style` setting (or ask if `"ask"`), generate an appropriate README:
 
 **minimal:**
-```markdown
+````markdown
 # {project-name}
 
 {description}
@@ -103,10 +103,10 @@ Based on the `readme_style` setting (or ask if `"ask"`), generate an appropriate
 ## License
 
 {license}
-```
+````
 
 **standard:**
-```markdown
+````markdown
 # {project-name}
 
 {badges}
@@ -137,10 +137,10 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 {license}
-```
+````
 
 **detailed:**
-```markdown
+````markdown
 # {project-name}
 
 {badges}
@@ -209,7 +209,7 @@ A: Answer here.
 ## License
 
 {license}
-```
+````
 
 Fill in the project name, description, and license. For features, installation, and usage — fill in reasonable placeholders based on the project description that the user can easily customize later.
 
