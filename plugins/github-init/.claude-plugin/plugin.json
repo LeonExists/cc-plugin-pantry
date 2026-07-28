@@ -1,0 +1,11 @@
+{
+  "name": "github-init",
+  "version": "1.0.0",
+  "description": "Automates GitHub project creation with personalized preferences — suggests names, descriptions, licenses, and generates starter files.",
+  "author": {
+    "name": "LeonExist"
+  },
+  "repository": "https://github.com/LeonExist/cc-plugin-pantry",
+  "license": "MIT",
+  "keywords": ["github", "project-setup", "automation", "repository"]
+}
