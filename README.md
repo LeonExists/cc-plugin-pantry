@@ -8,17 +8,17 @@ Pick whichever method matches your setup:
 
 **GitHub shorthand** (uses your default git protocol):
 ```
-/plugin marketplace add LeonExist/cc-plugin-pantry
+/plugin marketplace add LeonExists/cc-plugin-pantry
 ```
 
 **HTTPS** (works behind corporate proxies, no SSH key needed):
 ```
-/plugin marketplace add https://github.com/LeonExist/cc-plugin-pantry.git
+/plugin marketplace add https://github.com/LeonExists/cc-plugin-pantry.git
 ```
 
 **SSH** (if you authenticate with SSH keys):
 ```
-/plugin marketplace add git@github.com:LeonExist/cc-plugin-pantry.git
+/plugin marketplace add git@github.com:LeonExists/cc-plugin-pantry.git
 ```
 
 Then browse and install plugins directly from within Claude Code.
