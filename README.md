@@ -4,8 +4,21 @@ A marketplace of plugins for [Claude Code](https://docs.anthropic.com/en/docs/cl
 
 ## Add the marketplace
 
+Pick whichever method matches your setup:
+
+**GitHub shorthand** (uses your default git protocol):
 ```
 /plugin marketplace add LeonExist/cc-plugin-pantry
+```
+
+**HTTPS** (works behind corporate proxies, no SSH key needed):
+```
+/plugin marketplace add https://github.com/LeonExist/cc-plugin-pantry.git
+```
+
+**SSH** (if you authenticate with SSH keys):
+```
+/plugin marketplace add git@github.com:LeonExist/cc-plugin-pantry.git
 ```
 
 Then browse and install plugins directly from within Claude Code.
@@ -22,6 +35,8 @@ Then browse and install plugins directly from within Claude Code.
 ```
 /plugin install github-init@cc-plugin-pantry
 ```
+
+After installing, run `/reload-plugins` to activate it in your current session.
 
 ## License
 

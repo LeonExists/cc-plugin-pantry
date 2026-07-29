@@ -9,6 +9,16 @@
       },
       "version": "1.0.0",
       "keywords": ["github", "project-setup", "automation", "repository"]
+    },
+    {
+      "name": "repofinery",
+      "description": "Transform any repository into a star-worthy open source project. Audits, scores, and refines repos across 20 categories — from README quality to viral potential.",
+      "source": {
+        "type": "relative",
+        "path": "plugins/repofinery"
+      },
+      "version": "1.0.0",
+      "keywords": ["open-source", "repository", "audit", "github", "optimization", "readme", "documentation"]
     }
   ]
 }
