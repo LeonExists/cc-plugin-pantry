@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "github-init",
+      "description": "Automates GitHub project creation with personalized preferences — suggests names, descriptions, licenses, and generates starter files.",
+      "source": {
+        "type": "relative",
+        "path": "plugins/github-init"
+      },
+      "version": "1.0.0",
+      "keywords": ["github", "project-setup", "automation", "repository"]
+    }
+  ]
+}
