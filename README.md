@@ -1,11 +1,3 @@
-<!-- AI IMAGE PROMPT (for generating banner/social preview):
-"A sleek, modern digital pantry shelf made of dark glass and neon light accents,
-with glowing plugin cards floating off the shelves like holographic items.
-The word 'PANTRY' subtly etched into the glass. Minimal, futuristic, dark theme.
-Colors: deep navy (#0d1117), electric cyan (#58a6ff), soft purple (#bc8cff).
-Style: 3D render, isometric, clean, GitHub-dark aesthetic. 1280x640 for social preview."
--->
-
 <div align="center">
 
 ```
