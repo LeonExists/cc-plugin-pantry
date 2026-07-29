@@ -15,6 +15,7 @@ Then browse and install plugins directly from within Claude Code.
 | Plugin | Description |
 |--------|-------------|
 | `github-init` | Automates GitHub project creation with personalized preferences — suggests names, descriptions, licenses, and generates starter files. |
+| `repofinery` | Transform any repository into a star-worthy open source project. Audits, scores, and refines repos across 20 categories — from README quality to viral potential. |
 
 ## Install a plugin
 
